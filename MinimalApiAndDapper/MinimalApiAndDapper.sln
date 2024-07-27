@@ -9,9 +9,12 @@ Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "UserDB", "UserDB\UserDB.sql
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{862BCCEF-1611-48AB-9C2F-319FBC4A8216}"
 	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
 		..\.gitignore = ..\.gitignore
 		..\README.md = ..\README.md
 	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccess", "DataAccess\DataAccess.csproj", "{A889FB90-A29F-4891-AE49-F28390891C2A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -29,6 +32,10 @@ Global
 		{11D47C86-9603-44B8-969B-D8F712DCC97C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{11D47C86-9603-44B8-969B-D8F712DCC97C}.Release|Any CPU.Build.0 = Release|Any CPU
 		{11D47C86-9603-44B8-969B-D8F712DCC97C}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{A889FB90-A29F-4891-AE49-F28390891C2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A889FB90-A29F-4891-AE49-F28390891C2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A889FB90-A29F-4891-AE49-F28390891C2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A889FB90-A29F-4891-AE49-F28390891C2A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

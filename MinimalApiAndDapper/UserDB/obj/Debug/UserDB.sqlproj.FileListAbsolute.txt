@@ -1,0 +1,10 @@
+C:\Users\Adarsh\Desktop\WebDev2024\DotNet\MinimalApiAndDapper\MinimalApiAndDapper\UserDB\bin\Debug\UserDB.dacpac
+C:\Users\Adarsh\Desktop\WebDev2024\DotNet\MinimalApiAndDapper\MinimalApiAndDapper\UserDB\bin\Debug\UserDB.dll
+C:\Users\Adarsh\Desktop\WebDev2024\DotNet\MinimalApiAndDapper\MinimalApiAndDapper\UserDB\bin\Debug\UserDB.pdb
+C:\Users\Adarsh\Desktop\WebDev2024\DotNet\MinimalApiAndDapper\MinimalApiAndDapper\UserDB\obj\Debug\UserDB.sqlproj.AssemblyReference.cache
+C:\Users\Adarsh\Desktop\WebDev2024\DotNet\MinimalApiAndDapper\MinimalApiAndDapper\UserDB\obj\Debug\Model.xml
+C:\Users\Adarsh\Desktop\WebDev2024\DotNet\MinimalApiAndDapper\MinimalApiAndDapper\UserDB\obj\Debug\refactor.xml
+C:\Users\Adarsh\Desktop\WebDev2024\DotNet\MinimalApiAndDapper\MinimalApiAndDapper\UserDB\obj\Debug\postdeploy.sql
+C:\Users\Adarsh\Desktop\WebDev2024\DotNet\MinimalApiAndDapper\MinimalApiAndDapper\UserDB\obj\Debug\predeploy.sql
+C:\Users\Adarsh\Desktop\WebDev2024\DotNet\MinimalApiAndDapper\MinimalApiAndDapper\UserDB\obj\Debug\UserDB.dll
+C:\Users\Adarsh\Desktop\WebDev2024\DotNet\MinimalApiAndDapper\MinimalApiAndDapper\UserDB\obj\Debug\UserDB.pdb
