@@ -1,0 +1,13 @@
+C:\Users\Adarsh\Desktop\WebDev2024\DotNet\MinimalApiAndDapper\MinimalApiAndDapper\DataAccess\bin\Debug\net8.0\DataAccess.deps.json
+C:\Users\Adarsh\Desktop\WebDev2024\DotNet\MinimalApiAndDapper\MinimalApiAndDapper\DataAccess\bin\Debug\net8.0\DataAccess.dll
+C:\Users\Adarsh\Desktop\WebDev2024\DotNet\MinimalApiAndDapper\MinimalApiAndDapper\DataAccess\bin\Debug\net8.0\DataAccess.pdb
+C:\Users\Adarsh\Desktop\WebDev2024\DotNet\MinimalApiAndDapper\MinimalApiAndDapper\DataAccess\obj\Debug\net8.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\Adarsh\Desktop\WebDev2024\DotNet\MinimalApiAndDapper\MinimalApiAndDapper\DataAccess\obj\Debug\net8.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adarsh\Desktop\WebDev2024\DotNet\MinimalApiAndDapper\MinimalApiAndDapper\DataAccess\obj\Debug\net8.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\Adarsh\Desktop\WebDev2024\DotNet\MinimalApiAndDapper\MinimalApiAndDapper\DataAccess\obj\Debug\net8.0\DataAccess.AssemblyInfo.cs
+C:\Users\Adarsh\Desktop\WebDev2024\DotNet\MinimalApiAndDapper\MinimalApiAndDapper\DataAccess\obj\Debug\net8.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Adarsh\Desktop\WebDev2024\DotNet\MinimalApiAndDapper\MinimalApiAndDapper\DataAccess\obj\Debug\net8.0\DataAccess.sourcelink.json
+C:\Users\Adarsh\Desktop\WebDev2024\DotNet\MinimalApiAndDapper\MinimalApiAndDapper\DataAccess\obj\Debug\net8.0\DataAccess.dll
+C:\Users\Adarsh\Desktop\WebDev2024\DotNet\MinimalApiAndDapper\MinimalApiAndDapper\DataAccess\obj\Debug\net8.0\refint\DataAccess.dll
+C:\Users\Adarsh\Desktop\WebDev2024\DotNet\MinimalApiAndDapper\MinimalApiAndDapper\DataAccess\obj\Debug\net8.0\DataAccess.pdb
+C:\Users\Adarsh\Desktop\WebDev2024\DotNet\MinimalApiAndDapper\MinimalApiAndDapper\DataAccess\obj\Debug\net8.0\ref\DataAccess.dll

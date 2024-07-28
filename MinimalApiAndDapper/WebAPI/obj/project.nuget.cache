@@ -1,8 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "CyZfSeY7YZ9PJyk58CC/tbnY0EwKe87cOi04LToU01f6Iq37gfO8RetezarA2JJAeDtcOqYAdf9zpk2Y5HWNjg==",
+  "dgSpecHash": "KmfiW5tDOi9zqX+1xQKZtiTbIr0NVCFO8GFtjm6OxBMBl38+M1EXhBB0A4Ztn6KZg5lqF6iQbmWPMwUmKsIrxA==",
   "success": true,
   "projectFilePath": "C:\\Users\\Adarsh\\Desktop\\WebDev2024\\DotNet\\MinimalApiAndDapper\\MinimalApiAndDapper\\WebAPI\\WebAPI.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Adarsh\\.nuget\\packages\\microsoft.aspnetcore.openapi\\8.0.6\\microsoft.aspnetcore.openapi.8.0.6.nupkg.sha512",
+    "C:\\Users\\Adarsh\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\Adarsh\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
+    "C:\\Users\\Adarsh\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "C:\\Users\\Adarsh\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "C:\\Users\\Adarsh\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "C:\\Users\\Adarsh\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
   "logs": []
 }
