@@ -3,3 +3,5 @@
 ################################################################################
 
 .vs/
+/MinimalApiAndDapper/UserDB/UserDB.publish.xml
+/MinimalApiAndDapper/UserDB/UserDB.dbmdl
