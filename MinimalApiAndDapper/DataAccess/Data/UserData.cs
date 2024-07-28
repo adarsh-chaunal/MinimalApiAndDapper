@@ -29,6 +29,6 @@ public class UserData : IUserData
 	public async Task UpdateUserAsync(User user) => await _db.SaveDataAsync<User>("dbo.spUser_Update",
 																			   user);
 
-	public async Task DeleteUser(int id) => await _db.SaveDataAsync<dynamic>("dbo.spUser_Delete",
+	public async Task DeleteUserAsync(int id) => await _db.SaveDataAsync<dynamic>("dbo.spUser_Delete",
 																		  new { Id = id });
 }

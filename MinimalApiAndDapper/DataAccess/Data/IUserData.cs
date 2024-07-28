@@ -3,7 +3,7 @@
 namespace DataAccess.Data;
 public interface IUserData
 {
-	Task DeleteUser(int id);
+	Task DeleteUserAsync(int id);
 	Task<User?> GetUserAsync(int id);
 	Task<IEnumerable<User>> GetUsersAsync();
 	Task InsertUserAsync(User user);

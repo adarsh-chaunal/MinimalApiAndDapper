@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "CySac+fhYktXEFvqUrxeEnqbxnkFyVzZIGJs145qawEgb2efwTIBXB8+aS6MPvzW8rZYr46yf4aEoeO8NJPJfw==",
+  "dgSpecHash": "gZKAEtamqQEPsXc2Pwqec+4IL69bYaRZn53WpVdXznZpp4fyrcGovq7BTH9fW2cAwmNKptlJMXzB0HoP3haJCA==",
   "success": true,
   "projectFilePath": "C:\\Users\\Adarsh\\Desktop\\WebDev2024\\DotNet\\MinimalApiAndDapper\\MinimalApiAndDapper\\DataAccess\\DataAccess.csproj",
   "expectedPackageFiles": [
@@ -12,6 +12,7 @@
     "C:\\Users\\Adarsh\\.nuget\\packages\\microsoft.data.sqlclient\\5.2.1\\microsoft.data.sqlclient.5.2.1.nupkg.sha512",
     "C:\\Users\\Adarsh\\.nuget\\packages\\microsoft.data.sqlclient.sni.runtime\\5.2.0\\microsoft.data.sqlclient.sni.runtime.5.2.0.nupkg.sha512",
     "C:\\Users\\Adarsh\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\8.0.0\\microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\Adarsh\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.1\\microsoft.extensions.dependencyinjection.abstractions.8.0.1.nupkg.sha512",
     "C:\\Users\\Adarsh\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512",
     "C:\\Users\\Adarsh\\.nuget\\packages\\microsoft.identity.client\\4.60.3\\microsoft.identity.client.4.60.3.nupkg.sha512",
     "C:\\Users\\Adarsh\\.nuget\\packages\\microsoft.identity.client.extensions.msal\\4.60.3\\microsoft.identity.client.extensions.msal.4.60.3.nupkg.sha512",
